@@ -44,6 +44,7 @@ In this problem, there are 2 small requirements:
 ![image](https://user-images.githubusercontent.com/91864024/181565126-62db2f8b-43f9-4397-a707-fc4582d7963e.png)
 
 #### B. Detect the face after detecting the eyes
+
 **- Load the eyes detection image from last step, convert to gray image**
 
 ![image](https://user-images.githubusercontent.com/91864024/181565595-941aba40-b509-4b62-bb13-c6af4458b5bd.png)
@@ -52,7 +53,7 @@ In this problem, there are 2 small requirements:
 
 ![image](https://user-images.githubusercontent.com/91864024/181565791-4c88f57c-f34c-4392-8f46-3e9279c7902e.png)
 
-** Draw rectangle for the face, convert to color image, save image**
+**- Draw rectangle for the face, convert to color image, save image**
 
 ![image](https://user-images.githubusercontent.com/91864024/181566078-159e1754-e8a6-4627-9136-f6229fe28f5a.png)
 
